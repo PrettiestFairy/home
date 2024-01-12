@@ -1,5 +1,4 @@
-// @ts-ignore
-import type { NavLink } from './components/type'
+import {NavLink} from "../.vitepress/theme/types";
 
 type NavData = {
   title: string
@@ -8,8 +7,120 @@ type NavData = {
 
 export const NAV_DATA: NavData[] = [
   {
+    title: '🎉作者站点导航',
+    items: [
+      {
+        icon: '/logo.jpg',
+        title: 'Github',
+        desc: '',
+        link: 'https://github.com/AustinFairyland',
+      },
+      {
+        icon: '/logo.jpg',
+        title: 'GitLab',
+        desc: '',
+        link: 'https://gitlab.com/Austin.D',
+      },
+      {
+        icon: '/logo.jpg',
+        title: 'Gitee',
+        desc: '',
+        link: 'https://github.com/AustinFairyland',
+      },
+      {
+        icon: '/logo.jpg',
+        title: 'GitBook',
+        desc: '',
+        link: 'https://gitbook.fairy.host',
+      },
+      {
+        icon: '/logo.jpg',
+        title: 'DockerHub',
+        desc: '',
+        link: 'https://hub.docker.com/repositories/austinfairyland',
+      },
+      {
+        icon: '/logo.jpg',
+        title: 'CSDN',
+        desc: '',
+        link: 'https://github.com/AustinFairyland',
+      },
+      {
+        icon: '/logo.jpg',
+        title: '博客园',
+        desc: '',
+        link: 'https://github.com/AustinFairyland',
+      },
+      {
+        icon: '/logo.jpg',
+        title: '知乎',
+        desc: '',
+        link: 'https://github.com/AustinFairyland',
+      },
+    ],
+  },
+  {
+    title: "🎉个人服务站点导航",
+    items: [
+      {
+        icon: '/logo.jpg',
+        title: 'Notebook',
+        desc: 'Notebook - 私人定制的数字记事本，记录您珍贵的思绪和灵感。',
+        link: 'https://notebook.cloud.fairies.ltd',
+      },
+      {
+        icon: '/logo.jpg',
+        title: 'OpenWRT',
+        desc: 'OpenWRT - 极致灵活的开源路由器操作系统，为您的网络连接提供无限可能。',
+        link: 'https://openwrt.cloud.fairies.ltd',
+      },
+      {
+        icon: '/logo.jpg',
+        title: 'MinIO',
+        desc: 'MinIO云存储 - 安全可靠的文件存储解决方案，守护您的数据安全。',
+        link: 'https://minio.cloud.fairies.ltd/',
+      },
+      {
+        icon: '/logo.jpg',
+        title: 'ServerDashboard',
+        desc: '',
+        link: 'https://control.cloud.fairies.ltd',
+      },
+      {
+        icon: '/logo.jpg',
+        title: 'JupyterBook',
+        desc: '',
+        link: 'https://jupyterbook.cloud.fairies.ltd',
+      },
+      {
+        icon: '/logo.jpg',
+        title: 'PortainerDashboard',
+        desc: '',
+        link: 'https://portainer.cloud.fairies.ltd',
+      },
+      {
+        icon: '/logo.jpg',
+        title: 'NginxProxyManager',
+        desc: '',
+        link: 'https://proxy.cloud.fairies.ltd',
+      },
+      {
+        icon: '/logo.jpg',
+        title: 'PrivateServer-NginxProxyManager',
+        desc: '',
+        link: 'https://privateproxy.cloud.fairies.ltd',
+      },
+    ]
+  },
+  {
     title: '常用工具',
     items: [
+      {
+        icon: 'https://qwerty.fe-mm.com/apple-touch-icon.png',
+        title: 'Qwerty Learner',
+        desc: '为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件',
+        link: 'https://qwerty.fe-mm.com',
+      },
       {
         icon: 'https://caniuse.com/img/favicon-128.png',
         title: 'Can I use',
@@ -64,35 +175,6 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://global-uploads.webflow.com/59deb588800ae30001ec19c9/5d4891e0e260e3c1bc37b100_beautiful%20ai%20favicon%20%20blue%20square.png',
         title: 'Beautiful.ai（PPT）',
         link: 'https://www.beautiful.ai',
-      },
-    ],
-  },
-  {
-    title: '茂茂的站点导航',
-    items: [
-      {
-        icon: '/logo.png',
-        title: '前端日常笔记',
-        desc: '日常笔记记录（零零散散啥都记系列）',
-        link: 'https://github.com/maomao1996/daily-notes',
-      },
-      {
-        icon: '/logo.png',
-        title: '前端思维导图',
-        desc: '用思维导图的方式总结个人所学知识',
-        link: 'https://mindmap.fe-mm.com',
-      },
-      {
-        icon: 'https://qwerty.fe-mm.com/apple-touch-icon.png',
-        title: 'Qwerty Learner',
-        desc: '为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件',
-        link: 'https://qwerty.fe-mm.com',
-      },
-      {
-        icon: '/logo.png',
-        title: 'mmPlayer',
-        desc: 'mmPlayer 在线音乐播放器',
-        link: 'https://netease-music.fe-mm.com',
       },
     ],
   },

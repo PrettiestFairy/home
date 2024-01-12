@@ -1,8 +1,8 @@
-import { h, watch } from 'vue'
-import { useData, EnhanceAppContext } from 'vitepress'
+import {h, watch} from 'vue'
+import {useData, EnhanceAppContext} from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 
-import { createMediumZoomProvider } from './composables/useMediumZoom'
+import {createMediumZoomProvider} from './composables/useMediumZoom'
 
 import MLayout from './components/MLayout.vue'
 import MNavLinks from './components/MNavLinks.vue'
@@ -16,7 +16,7 @@ export default {
   Layout: () => {
     const props: Record<string, any> = {}
     // 获取 frontmatter
-    const { frontmatter } = useData()
+    const {frontmatter} = useData()
 
     /* 添加自定义 class */
     if (frontmatter.value?.layoutClass) {
@@ -25,7 +25,7 @@ export default {
 
     return h(MLayout, props)
   },
-  enhanceApp({ app, router }: EnhanceAppContext) {
+  enhanceApp({app, router}: EnhanceAppContext) {
     createMediumZoomProvider(app, router)
 
     app.component('MNavLinks', MNavLinks)
@@ -35,10 +35,9 @@ export default {
         () => router.route.data.relativePath,
         () =>
           updateHomePageStyle(
-            /* /vitepress-nav-template/ 是为了兼容 GitHub Pages */
-            location.pathname === '/' || location.pathname === '/vitepress-nav-template/',
+            location.pathname === '' || location.pathname === '/AustinHomePage/',
           ),
-        { immediate: true },
+        {immediate: true},
       )
     }
   },

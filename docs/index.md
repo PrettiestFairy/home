@@ -1,14 +1,15 @@
 ---
+layoutClass: 'home-layout'
 layout: home
-layoutClass: 'm-home-layout'
 
+title: Austin
+titleTemplate: 
 hero:
-  name: Austin D
+  name: Austin
   text: 个人主页
-  tagline: 衣带渐宽终不悔, 为伊消得人憔悴.
+  tagline: 衣带渐宽终不悔，为伊消得人憔悴。
   image:
     src: /logo.jpg
-    alt: Austin
   actions:
     - text: 个人主页
       link: https://home.cloud.fairies.ltd/
@@ -17,45 +18,47 @@ hero:
     - text: 服务监控面板
       link: https://control.cloud.fairies.ltd/
       theme: alt
-#features:
-#  - icon: 📖
-#    title: 前端物语
-#    details: 整理前端常用知识点<small>（面试八股文）</small><br />如有异议按你的理解为主，不接受反驳
-#    link: https://notes.fe-mm.com/fe/javascript/types
-#    linkText: 前端常用知识
-#  - icon: 📘
-#    title: 源码阅读
-#    details: 了解各种库的实现原理<br />学习其中的小技巧和冷知识
-#    link: https://notes.fe-mm.com/analysis/utils/only-allow
-#    linkText: 源码阅读
-#  - icon: 💡
-#    title: Workflow
-#    details: 在工作中学到的一切<small>（常用库/工具/奇淫技巧等）</small><br />配合 CV 大法来更好的摸鱼
-#    link: https://notes.fe-mm.com/workflow/utils/library
-#    linkText: 常用工具库
-#  - icon: 🧰
-#    title: 提效工具
-#    details: 工欲善其事，必先利其器<br />记录开发和日常使用中所用到的软件、插件、扩展等
-#    link: https://notes.fe-mm.com/efficiency/online-tools
-#    linkText: 提效工具
-#  - icon: 🐞
-#    title: 踩坑记录
-#    details: 那些年我们踩过的坑<br />总有一些让你意想不到的问题
-#    link: https://notes.fe-mm.com/pit/npm
-#    linkText: 踩坑记录
-#  - icon: 💯
-#    title: 吾志所向，一往无前。
-#    details: '<small class="bottom-small">一个想躺平的小开发</small>'
-#    link: https://notes.fe-mm.com/mao
+features:
+  - icon: 💌
+    title: 个人博客
+    details: Austin's blogs <br/> 研发建设中 ...
+    link: #
+    linkText: Blogs ...
+  - icon: 💡
+    title: 个人作品
+    details: 日常和工作中撸的项目 <br/> 研发建设中 ...
+    link: /product/#
+    linkText: Product ...
+    theme: 
+  - icon: 📖
+    title: 接口文档
+    details: 开放式API文档 <br/> 研发建设中 ...
+    link: 
+    linkText: API Docs ...
+  - icon: ⚙️
+    title: 工具导航
+    details: 从简单实用到专业高效 <br/> 让每一次点击都成为提升效率和创造力的旅程
+    link: /tools/#
+    linkText: Tools ...
+  - icon: 💼
+    title: 软件分享
+    details: 软件工具控 <small>工欲善其事, 必先利其器</small> <br/> 研发建设中 ...
+    link: #
+    linkText: Apps ...
+  - icon: 👨‍💻
+    title: 关于作者
+    details:  不仅是代码的编织者，更是故事的讲述者。科技与创意的火花碰撞，点亮了无限的可能。 <small class="bottom-small">-- 想躺平的全栈工程师</small>
+    link: /profile/#
+    linkText: About ...
 ---
 
 <style>
 
-.m-home-layout .details small {
+.home-layout .details small {
   opacity: 0.8;
 }
 
-.m-home-layout .bottom-small {
+.home-layout .bottom-small {
   display: block;
   margin-top: 2em;
   text-align: right;
