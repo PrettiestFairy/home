@@ -1,0 +1,16 @@
+node_modules
+
+dist
+dist-dev
+build
+cache
+.cache
+.temp
+.tmp
+
+# lock files
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# user-specific files

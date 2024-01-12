@@ -1,0 +1,43 @@
+{
+  "name": "home-page",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "个人主页",
+  "private": true,
+  "scripts": {
+    "dev": "vitepress dev docs --port=8732",
+    "build": "vitepress build docs",
+    "build:github": "cross-env APP_BASE_PATH=/AustinHomePage/ vitepress build docs",
+    "format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinFairyland/AustinHomePage.git"
+  },
+  "author": "Austin <fairylandhost@outlook.com>",
+  "license": "AGPT",
+  "bugs": {
+    "url": "https://github.com/AustinFairyland"
+  },
+  "homepage": "https://github.com/AustinFairyland",
+  "devDependencies": {
+    "@femm/prettier": "^1.1.0",
+    "@femm/verify-commit": "^1.0.1",
+    "@mdit-vue/shared": "^0.12.1",
+    "@types/node": "^18.18.6",
+    "cross-env": "^7.0.3",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.3.0",
+    "medium-zoom": "^1.0.8",
+    "prettier": "^2.8.8",
+    "sass": "^1.69.4",
+    "vitepress": "1.0.0-rc.20",
+    "vue": "^3.3.4"
+  },
+  "prettier": "@femm/prettier",
+  "lint-staged": {
+    "*.{js,jsx,tsx,vue,css,scss,less,md,json}": [
+      "prettier --write"
+    ]
+  }
+}
