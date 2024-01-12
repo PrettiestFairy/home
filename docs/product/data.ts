@@ -19,49 +19,49 @@ export const NAV_DATA: NavData[] = [
     title: '🎉作者站点导航',
     items: [
       {
-        icon: '/logo.jpg',
+        icon: "https://minioshare.alicehome.ltd/images/icon/github.svg",
         title: 'Github',
         desc: '',
         link: 'https://github.com/AustinFairyland',
       },
       {
-        icon: '/logo.jpg',
+        icon: 'https://minioshare.alicehome.ltd/images/icon/gitlab.svg',
         title: 'GitLab',
         desc: '',
         link: 'https://gitlab.com/Austin.D',
       },
       {
-        icon: '/logo.jpg',
+        icon: 'https://minioshare.alicehome.ltd/images/icon/gitee.svg',
         title: 'Gitee',
         desc: '',
         link: 'https://github.com/AustinFairyland',
       },
       {
-        icon: '/logo.jpg',
+        icon: 'https://minioshare.alicehome.ltd/images/icon/gitbook.svg',
         title: 'GitBook',
         desc: '',
         link: 'https://gitbook.fairy.host',
       },
       {
-        icon: '/logo.jpg',
+        icon: 'https://minioshare.alicehome.ltd/images/icon/docker.svg',
         title: 'DockerHub',
         desc: '',
         link: 'https://hub.docker.com/repositories/austinfairyland',
       },
       {
-        icon: '/logo.jpg',
+        icon: 'https://minioshare.alicehome.ltd/images/icon/csdn.svg',
         title: 'CSDN',
         desc: '',
         link: 'https://github.com/AustinFairyland',
       },
       {
-        icon: '/logo.jpg',
+        icon: 'https://minioshare.alicehome.ltd/images/icon/cnblogs.svg',
         title: '博客园',
         desc: '',
         link: 'https://github.com/AustinFairyland',
       },
       {
-        icon: '/logo.jpg',
+        icon: 'https://minioshare.alicehome.ltd/images/icon/zhihu.svg',
         title: '知乎',
         desc: '',
         link: 'https://github.com/AustinFairyland',
@@ -72,7 +72,7 @@ export const NAV_DATA: NavData[] = [
     title: "🎉个人服务站点导航",
     items: [
       {
-        icon: '/logo.jpg',
+        icon: 'https://minioshare.alicehome.ltd/images/icon/notebook.svg',
         title: 'Notebook',
         desc: 'Notebook - 私人定制的数字记事本，记录您珍贵的思绪和灵感。',
         link: 'https://notebook.cloud.fairies.ltd',
@@ -96,7 +96,7 @@ export const NAV_DATA: NavData[] = [
         link: 'https://control.cloud.fairies.ltd',
       },
       {
-        icon: '/logo.jpg',
+        icon: 'https://minioshare.alicehome.ltd/images/icon/jupyter.svg',
         title: 'JupyterBook',
         desc: '',
         link: 'https://jupyterbook.cloud.fairies.ltd',
@@ -108,13 +108,13 @@ export const NAV_DATA: NavData[] = [
         link: 'https://portainer.cloud.fairies.ltd',
       },
       {
-        icon: '/logo.jpg',
+        icon: 'https://minioshare.alicehome.ltd/images/icon/nginx.svg',
         title: 'NginxProxyManager',
         desc: '',
         link: 'https://proxy.cloud.fairies.ltd',
       },
       {
-        icon: '/logo.jpg',
+        icon: 'https://minioshare.alicehome.ltd/images/icon/nginx.svg',
         title: 'PrivateServer-NginxProxyManager',
         desc: '',
         link: 'https://privateproxy.cloud.fairies.ltd',
