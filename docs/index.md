@@ -6,10 +6,11 @@ title: Austin
 titleTemplate: 
 hero:
   name: Austin
+#  name: Austin(段主任)
   text: 个人主页
   tagline: 衣带渐宽终不悔，为伊消得人憔悴。
   image:
-    src: /logo.jpg
+    src: https://minioshare.cloud.fairies.ltd/images/headers/logo.jpg
   actions:
     - text: 个人主页
       link: https://home.cloud.fairies.ltd/
@@ -26,7 +27,7 @@ features:
     linkText: Blogs ...
   - icon: 💡
     title: 个人作品
-    details: 日常和工作中撸的项目 <br/> 研发建设中 ...
+    details: 日常和工作中撸的项目 <br/> 探索数字世界，展示个人技术实力和创意项目的专属空间。
     link: /product/#
     linkText: Product ...
     theme: 

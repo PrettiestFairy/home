@@ -16,7 +16,7 @@ export default defineConfig({
   },
   themeConfig: {
     i18nRouting: false,
-    logo: '/logo.jpg',
+    logo: "https://minioshare.cloud.fairies.ltd/images/headers/logo.jpg",
     nav: austinHeaders,
     sidebar: sidebar,
     // 右侧大纲配置
