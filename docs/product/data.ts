@@ -49,6 +49,30 @@ export const NAV_DATA: NavData[] = [
         link: 'https://hub.docker.com/u/austinfairyland',
       },
       {
+        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/telegram.svg',
+        title: 'Telegram',
+        desc: '即时获取最新消息和动态，与社区成员实时互动，分享您的想法和反馈。',
+        link: '/',
+      },
+      {
+        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/twitter.svg',
+        title: 'Twitter',
+        desc: '紧跟最新动态，参与话题讨论，发现有关行业趋势的即时讯息和观点分享。',
+        link: '/',
+      },
+      {
+        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/youtube.svg',
+        title: 'YouTube',
+        desc: '观看内容丰富的视频，包括教程、产品评测和行业洞察，深入了解我们的世界。',
+        link: '/',
+      },
+      {
+        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/instagram.svg',
+        title: 'Instagram',
+        desc: '享受视觉盛宴，从独特的角度探索我们的故事和创新时刻。',
+        link: '/',
+      },
+      {
         icon: 'https://minioshare.cloud.fairies.ltd/images/icon/csdn.svg',
         title: 'CSDN',
         desc: 'CSDN的博客，分享最新的编程技术、IT资讯和个人见解。',
@@ -71,6 +95,12 @@ export const NAV_DATA: NavData[] = [
         title: '微信公众号',
         desc: '关注微信公众号，获取最新技术动态、教程和个人观点。',
         link: 'https://minioshare.cloud.fairies.ltd/images/qrcode/qrcode_official_account_12x12.jpg',
+      },
+      {
+        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/bilibili.svg',
+        title: '哔哩哔哩',
+        desc: '观看最新的视频内容，包括独家教程、行业解读和创意分享。',
+        link: '/',
       },
     ],
   },
@@ -103,7 +133,7 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: 'https://minioshare.cloud.fairies.ltd/images/icon/jupyter.svg',
-        title: 'JupyterBook',
+        title: 'Jupyter Book',
         desc: 'JupyterBook - 探索数据科学和机器学习的强大工具，激发创新思维。',
         link: 'https://jupyterbook.cloud.fairies.ltd',
       },
@@ -124,6 +154,12 @@ export const NAV_DATA: NavData[] = [
         title: 'NginxProxy(PVT)',
         desc: 'NginxProxyManager - 私有Nginx代理，提供安全可靠的网络代理和加速服务。',
         link: 'https://privateproxy.cloud.fairies.ltd',
+      },
+      {
+        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/redhat.svg',
+        title: 'RedHat WebUI',
+        desc: '一个全面的Web界面，让您能够轻松管理和自动化您的Red Hat Enterprise Linux系统。',
+        link: 'https://redhat.cloud.fairies.ltd',
       },
     ]
   },

@@ -35,7 +35,8 @@ export default {
         () => router.route.data.relativePath,
         () =>
           updateHomePageStyle(
-            location.pathname === '' || location.pathname === '/AustinHomePage/',
+            // location.pathname === '' || location.pathname === '/AustinHomePage/',
+            location.pathname === '',
           ),
         {immediate: true},
       )

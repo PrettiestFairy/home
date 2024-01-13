@@ -2,66 +2,65 @@
 layoutClass: 'home-layout'
 layout: home
 
-title: Austin
+title: Austin 
 titleTemplate: 
 hero:
-  name: Austin
+  name: Austin 
 #  name: Austin(段主任)
-  text: 个人主页
-  tagline: 衣带渐宽终不悔，为伊消得人憔悴。
+  text: 个人主页 
+  tagline: 衣带渐宽终不悔，为伊消得人憔悴。 
   image:
-    src: https://minioshare.cloud.fairies.ltd/images/headers/logo.jpg
+    src: https://minioshare.cloud.fairies.ltd/images/headers/logo.jpg 
   actions:
-    - text: 个人主页
-      link: https://home.cloud.fairies.ltd/
-    - text: 个人简历
+    - text: 个人主页 
+      link: https://home.cloud.fairies.ltd/ 
+    - text: 个人简历 
       link: 
-    - text: 服务监控面板
-      link: https://control.cloud.fairies.ltd/
-      theme: alt
+    - text: 服务监控面板 
+      link: https://control.cloud.fairies.ltd/ 
+      theme: alt 
 features:
   - icon: 💌
     title: 个人博客
-    details: Austin's blogs <br/> 研发建设中 ...
-    link: #
+    details: <small>发现专业技术文章、生活随笔，以及对未来科技的思考。分享知识、经验和创意的空间，一起探索代码背后的故事吧。</small>
+    link: https://blog.fairies.ltd/ 
     linkText: Blogs ...
   - icon: 💡
     title: 个人作品
-    details: 日常和工作中撸的项目 <br/> 探索数字世界，展示个人技术实力和创意项目的专属空间。
-    link: /product/#
+    details: <small>每日一撸 <br/> 探索数字世界，展示个人技术实力和创意项目的专属空间。</small>
+    link: /product/ 
     linkText: Product ...
-    theme: 
   - icon: 📖
     title: 接口文档
-    details: 开放式API文档 <br/> 研发建设中 ...
+    details: <small> 开放式API文档 </small> <br/> 研发建设中 ...
     link: 
     linkText: API Docs ...
   - icon: ⚙️
     title: 工具导航
-    details: 从简单实用到专业高效 <br/> 让每一次点击都成为提升效率和创造力的旅程
-    link: /tools/#
+    details: 从简单实用到专业高效 <br/> <small>让每一次点击都成为提升效率和创造力的旅程<small>
+    link: /tools/ 
     linkText: Tools ...
   - icon: 💼
     title: 软件分享
-    details: 软件工具控 <small>工欲善其事, 必先利其器</small> <br/> 研发建设中 ...
+    details: <small> 软件工具控 <br/> 工欲善其事, 必先利其器</small> <br/> 研发建设中 ...
     link: #
     linkText: Apps ...
   - icon: 👨‍💻
     title: 关于作者
-    details:  不仅是代码的编织者，更是故事的讲述者。科技与创意的火花碰撞，点亮了无限的可能。 <small class="bottom-small">-- 想躺平的全栈工程师</small>
-    link: /profile/#
+    details: <small>不仅是代码的编织者，更是故事的讲述者。科技与创意的火花碰撞，点亮了无限的可能。</small> <p class="bottom-small">-- 一个想躺平的工程师</p>
+    link: /profile/ 
     linkText: About ...
 ---
 
 <style>
 
 .home-layout .details small {
-  opacity: 0.8;
+  opacity: 0.7;
 }
 
 .home-layout .bottom-small {
   display: block;
-  margin-top: 2em;
+  margin-top: 1em;
   text-align: right;
 }
 </style>
