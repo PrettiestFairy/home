@@ -179,6 +179,12 @@ export const NAV_DATA: NavData[] = [
         desc: 'Pingvin Share - 文件共享服务，专注于数据安全和高效传输。',
         link: 'https://pingvin.cloud.fairies.ltd',
       },
+      {
+        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/bitwarden.svg',
+        title: 'Bitwarden',
+        desc: '密码管理工具，提供安全存储和跨设备同步您的密码、登录信息和其他敏感数据。',
+        link: 'https://bitwarden.cloud.fairies.ltd',
+      },
     ]
   },
   {
