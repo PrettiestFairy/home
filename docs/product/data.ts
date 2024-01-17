@@ -174,7 +174,7 @@ export const NAV_DATA: NavData[] = [
         link: 'https://ittools.cloud.fairies.ltd',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/pingvin.png',
+        icon: 'https://cdn.minioshare.cloud.fairies.ltd/images/icon/pingvin.png',
         title: 'Pingvin Share',
         desc: 'Pingvin Share - 文件共享服务，专注于数据安全和高效传输。',
         link: 'https://pingvin.cloud.fairies.ltd',
