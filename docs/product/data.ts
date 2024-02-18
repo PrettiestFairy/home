@@ -158,8 +158,32 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://minioshare.cloud.fairies.ltd/images/icon/redhat.svg',
         title: 'RedHat WebUI',
-        desc: '一个全面的Web界面，让您能够轻松管理和自动化您的Red Hat Enterprise Linux系统。',
+        desc: 'RedHat WebUI - 全面的Web界面，让您能够轻松管理和自动化您的RHEL。',
         link: 'https://redhat.cloud.fairies.ltd',
+      },
+      {
+        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/image.svg',
+        title: 'Picsur',
+        desc: 'Picsur - 创新的在线图片分享和编辑平台，方便快捷地分享和编辑图片。',
+        link: 'https://pic.cloud.fairies.ltd',
+      },
+      {
+        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/ittools.svg',
+        title: 'IT Tools',
+        desc: 'IT Tools - 综合性的信息技术工具集合网站，提供各种IT资源和工具，提高效率。',
+        link: 'https://ittools.cloud.fairies.ltd',
+      },
+      {
+        icon: 'https://cdn.minioshare.cloud.fairies.ltd/images/icon/pingvin.png',
+        title: 'Pingvin Share',
+        desc: 'Pingvin Share - 文件共享服务，专注于数据安全和高效传输。',
+        link: 'https://pingvin.cloud.fairies.ltd',
+      },
+      {
+        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/bitwarden.svg',
+        title: 'Bitwarden',
+        desc: '密码管理工具，提供安全存储和跨设备同步您的密码、登录信息和其他敏感数据。',
+        link: 'https://bitwarden.cloud.fairies.ltd',
       },
     ]
   },
