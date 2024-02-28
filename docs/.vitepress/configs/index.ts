@@ -1,3 +1,5 @@
-export * from "./head"
-export * from "./austin"
-export * from "./sidebar"
+export {
+  DefaultHead,
+  ChineseThemeConfig,
+  EnglishThemeConfig
+} from "./CustomConfigs"
