@@ -9,7 +9,8 @@ hero:
   text: Personal Homepage
   tagline: Never did I regret that I was getting thinner, and worn out, Because I pined for the one I cherished indeed.
   image:
-    src: https://minioshare.cloud.fairies.ltd/images/Profile Photo/personal.jpg
+#    src: https://minioshare.cloud.fairies.ltd/images/Profile Photo/personal.jpg
+    src: https://minioshare.service.fairy.host/images/Profile Photo/personal.jpg
   actions:
     - text: Personal HomePage
       link: https://home.cloud.fairies.ltd/

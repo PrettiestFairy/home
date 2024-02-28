@@ -1,24 +1,24 @@
 ---
 layoutClass: profile-layout
-title: Austin
-titleTemplate: 关于作者
+title: Lionel Johnson
+titleTemplate: About
 ---
 
 <style src="./index.scss"></style>
 
-# 关于作者
+# About the Author
 
-## 👋 Hi, I'm Austin
+## 👋 Hi, I'm Lionel Johnson
 
 <p>
     <a href='https://t.me/FairyLtd'>
-        <img src="https://img.shields.io/badge/Author-Austin-orange" referrerpolicy="no-referrer" alt="Author" class="target-image">
+        <img src="https://img.shields.io/badge/Author-Lionel_Johnson-orange" referrerpolicy="no-referrer" alt="Author" class="target-image">
     </a><span> </span>
     <a href='https://github.com/AustinFairyland'>
-        <img src="https://img.shields.io/badge/Github-Austin.D-green" referrerpolicy="no-referrer" alt="github" class="target-image">
+        <img src="https://img.shields.io/badge/Github-Lionel_Johnson-green" referrerpolicy="no-referrer" alt="github" class="target-image">
     </a><span> </span>
     <a href='https://interestingbooks.gitbook.io/'>
-        <img src="https://img.shields.io/badge/GitBook-Austin.D-green" referrerpolicy="no-referrer" alt="GitBook" class="target-image">
+        <img src="https://img.shields.io/badge/GitBook-Lionel_Johnson-green" referrerpolicy="no-referrer" alt="GitBook" class="target-image">
     </a><span> </span>
     <a href='https://github.com/AustinFairyland'>
         <img src="https://img.shields.io/badge/Editor-PyCharm-yellow" referrerpolicy="no-referrer" alt="Editor" class="target-image">
@@ -127,16 +127,16 @@ Language Switching: [English✔️]() | [Chinese❌]()
   <img src="https://img.shields.io/badge/Telegram-%40FairyLtd-%2326A5E4?logo=telegram&logoColor=%2326A5E4" alt="tg" class="target-image">
 </a>
 <a href="">
-  <img src="https://img.shields.io/badge/Twitter-%40AustinDuanb-%231D9BF0?logo=twitter&logoColor=%231D9BF0" alt="twitter" class="target-image">
+  <img src="https://img.shields.io/badge/Twitter-%40Lionel_Johnson-%231D9BF0?logo=twitter&logoColor=%231D9BF0" alt="twitter" class="target-image">
 </a>
 <a href="">
-  <img src="https://img.shields.io/badge/Instagram-austin.duan.b-%23E4405F?logo=instagram&logoColor=%23E4405F" alt="instagram">
+  <img src="https://img.shields.io/badge/Instagram-Lionel_Johnson-%23E4405F?logo=instagram&logoColor=%23E4405F" alt="instagram">
 </a>
 </p>
 
 **Ask me questions or leave me a message 👉 [MessageBoard](https://github.com/AustinFairyland/AliceEngineerProPublic/issues/30)**
 
-- **Nickname: Austin (From Chengdu.China)**
+- **Nickname: Lionel Johnson (From Chengdu.China)**
 - **Gender: Male (👨 This's very important! 😕)**
 - **Telegram: [@FairyLtd](https://t.me/FairyLtd) ~~If you're in Chinese mainland, please scan the QR code at the end of the document ontact me.~~**
 - **E-mail: ~~fairy.alice@proton.me~~ fairylandhost@outlook.com**
@@ -147,7 +147,7 @@ Language Switching: [English✔️]() | [Chinese❌]()
 
 [//]: # (![GitHubStats]&#40;https://github-readme-stats.vercel.app/api?username=AustinFairyland&count_private=true&show_icons=true&#41;)
 
-As of July, 2022; Submitted by [Austin](https://github.com/AustinFairyland)
+As of July, 2022; Submitted by [Lionel Johnson](https://github.com/AustinFairyland)
 
 ## 😎About my account
 
@@ -172,7 +172,7 @@ As of July, 2022; Submitted by [Austin](https://github.com/AustinFairyland)
 <br/>
 
 ::: tip
-探索数字世界的导航者：这个精心设计的导航界面由 [Austin](https://github.com/AustinFairyland)开发，
+探索数字世界的导航者：这个精心设计的导航界面由 [Lionel Johnson](https://github.com/AustinFairyland)开发，
 融合了美学和实用性。我们鼓励并感谢社区成员的创新和分享精神。如果您在自己的项目中使用了我们的设计或受到了启发，
-请遵守版权规定并保留原始版权声明，以表彰我们的努力和 [Austin](https://github.com/AustinFairyland)的贡献。
+请遵守版权规定并保留原始版权声明，以表彰我们的努力和 [Lionel Johnson](https://github.com/AustinFairyland)的贡献。
 :::
