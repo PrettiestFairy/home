@@ -1,7 +1,7 @@
 /*
 @File: data.ts
 @Editor: WebStorm
-@Author: Austin (From Chengdu.China) https://fairy.host
+@Author: Lionel Johnson (From Chengdu.China) https://fairy.host
 @HomePage: https://github.com/AustinFairyland
 @OperatingSystem: Windows 11 Professional Workstation 23H2 Canary Channel
 @CreatedTime: 2024-01-12
@@ -16,190 +16,190 @@ type NavData = {
 
 export const NAV_DATA: NavData[] = [
   {
-    title: '🎉作者站点导航',
+    title: "🎉 Site Navigation",
     items: [
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/github.svg",
-        title: 'Github',
-        desc: '探索开源世界，发现充满创意和协作精神的代码库。',
-        link: 'https://github.com/AustinFairyland',
+        icon: "https://minioshare.service.fairy.host/images/icon/github.svg",
+        title: "Github",
+        desc: "Explore the world of open source, discovering repositories full of creativity and a spirit of collaboration.",
+        link: "https://github.com/PrettiestFairy",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/gitlab.svg',
-        title: 'GitLab',
-        desc: '一个多功能的代码托管平台，致力于高效的软件开发流程。',
-        link: 'https://gitlab.com/Austin.D',
+        icon: "https://minioshare.service.fairy.host/images/icon/gitlab.svg",
+        title: "GitLab",
+        desc: "A multi-functional code hosting platform dedicated to efficient software development processes.",
+        link: "https://gitlab.com/Lionel Johnson.D",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/gitee.svg',
-        title: 'Gitee',
-        desc: 'Gitee，中国领先的开源代码托管平台，专注于高速下载和本地化服务。',
-        link: 'https://gitee.com/AustinFairyland',
+        icon: "https://minioshare.service.fairy.host/images/icon/gitee.svg",
+        title: "Gitee",
+        desc: "Gitee, China's leading open-source code hosting platform, focuses on high-speed downloads and localized services.",
+        link: "https://gitee.com/AustinFairyland",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/gitbook.svg',
-        title: 'GitBook',
-        desc: '一个文档和知识共享的空间，充满了有用的技术指南和教程。',
-        link: 'https://gitbook.fairy.host',
+        icon: "https://minioshare.service.fairy.host/images/icon/gitbook.svg",
+        title: "GitBook",
+        desc: "A space for document and knowledge sharing, filled with useful technical guides and tutorials.",
+        link: "https://gitbook.fairy.host",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/docker.svg',
-        title: 'DockerHub',
-        desc: '在DockerHub上发现容器化应用和镜像，轻松实现软件的快速部署和扩展。',
-        link: 'https://hub.docker.com/u/austinfairyland',
+        icon: "https://minioshare.service.fairy.host/images/icon/docker.svg",
+        title: "DockerHub",
+        desc: "Discover containerized applications and images on DockerHub for easy and rapid software deployment and scaling.",
+        link: "https://hub.docker.com/u/austinfairyland",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/telegram.svg',
-        title: 'Telegram',
-        desc: '即时获取最新消息和动态，与社区成员实时互动，分享您的想法和反馈。',
-        link: '/',
+        icon: "https://minioshare.service.fairy.host/images/icon/telegram.svg",
+        title: "Telegram",
+        desc: "Get instant access to the latest news and updates, interact with community members in real time, share your thoughts and feedback.",
+        link: "/",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/twitter.svg',
-        title: 'Twitter',
-        desc: '紧跟最新动态，参与话题讨论，发现有关行业趋势的即时讯息和观点分享。',
-        link: '/',
+        icon: "https://minioshare.service.fairy.host/images/icon/twitter.svg",
+        title: "Twitter",
+        desc: "Keep up with the latest developments, participate in discussions on topics, and discover instant news and views on industry trends.",
+        link: "/",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/youtube.svg',
-        title: 'YouTube',
-        desc: '观看内容丰富的视频，包括教程、产品评测和行业洞察，深入了解我们的世界。',
-        link: '/',
+        icon: "https://minioshare.service.fairy.host/images/icon/youtube.svg",
+        title: "YouTube",
+        desc: "Watch content-rich videos, including tutorials, product reviews, and industry insights, to gain a deeper understanding of our world.",
+        link: "/",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/instagram.svg',
-        title: 'Instagram',
-        desc: '享受视觉盛宴，从独特的角度探索我们的故事和创新时刻。',
-        link: '/',
+        icon: "https://minioshare.service.fairy.host/images/icon/instagram.svg",
+        title: "Instagram",
+        desc: "Enjoy a visual feast, exploring our stories and moments of innovation from a unique perspective.",
+        link: "/",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/csdn.svg',
-        title: 'CSDN',
-        desc: 'CSDN的博客，分享最新的编程技术、IT资讯和个人见解。',
-        link: 'https://alicehome.blog.csdn.net',
+        icon: "https://minioshare.service.fairy.host/images/icon/csdn.svg",
+        title: "CSDN",
+        desc: "CSDN's blog shares the latest programming techniques, IT information, and personal insights.",
+        link: "https://alicehome.blog.csdn.net",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/cnblogs.svg',
-        title: '博客园',
-        desc: '博客园，深入探索编程心得和技术难题的解决方案。',
-        link: 'https://www.cnblogs.com/alicehome',
+        icon: "https://minioshare.service.fairy.host/images/icon/cnblogs.svg",
+        title: "Cnblogs",
+        desc: "Cnblogs, delve into programming insights and solutions to technical challenges.",
+        link: "https://www.cnblogs.com/alicehome",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/zhihu.svg',
-        title: '知乎',
-        desc: '加入知乎的讨论，探讨热门技术话题和行业趋势。',
-        link: 'https://www.zhihu.com/people/lao-gong-da-da',
+        icon: "https://minioshare.service.fairy.host/images/icon/zhihu.svg",
+        title: "Zhihu",
+        desc: "Join the discussion on Zhihu to explore hot tech topics and industry trends.",
+        link: "https://www.zhihu.com/people/lao-gong-da-da",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/OfficialAccount.svg',
-        title: '微信公众号',
-        desc: '关注微信公众号，获取最新技术动态、教程和个人观点。',
-        link: 'https://minioshare.cloud.fairies.ltd/images/qrcode/qrcode_official_account_12x12.jpg',
+        icon: "https://minioshare.service.fairy.host/images/icon/OfficialAccount.svg",
+        title: "WeChat Official Account",
+        desc: "Follow our WeChat official account to get the latest technology trends, tutorials, and personal insights.",
+        link: "https://minioshare.service.fairy.host/images/qrcode/qrcode_official_account_12x12.jpg",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/bilibili.svg',
-        title: '哔哩哔哩',
-        desc: '观看最新的视频内容，包括独家教程、行业解读和创意分享。',
-        link: '/',
+        icon: "https://minioshare.service.fairy.host/images/icon/bilibili.svg",
+        title: "Bilibili",
+        desc: "Watch the latest video content, including exclusive tutorials, industry insights, and creative shares.",
+        link: "/",
       },
     ],
   },
   {
-    title: "🎉个人服务站点导航",
+    title: "🎉 Personal Service Site Navigation",
     items: [
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/siyuan.svg',
-        title: 'Notebook',
-        desc: 'SiyuanNotebook - 私人定制的数字记事本，记录您珍贵的思绪和灵感。',
-        link: 'https://notebook.cloud.fairies.ltd',
+        icon: "https://minioshare.service.fairy.host/images/icon/siyuan.svg",
+        title: "Notebook",
+        desc: "SiyuanNotebook - A Custom Digital Notebook for Recording Your Precious Thoughts and Inspirations.",
+        link: "https://notebook.cloud.fairies.ltd",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/openwrt.svg',
-        title: 'OpenWRT',
-        desc: 'OpenWRT - 极致灵活的开源路由器操作系统，为您的网络连接提供无限可能。',
-        link: 'https://openwrt.cloud.fairies.ltd',
+        icon: "https://minioshare.service.fairy.host/images/icon/openwrt.svg",
+        title: "OpenWRT",
+        desc: "OpenWRT - An extremely flexible open-source router operating system that offers limitless possibilities for your network connections.",
+        link: "https://openwrt.cloud.fairies.ltd",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/minio.jpeg',
-        title: 'MinIO',
-        desc: 'MinIO云存储 - 安全可靠的文件存储解决方案，守护您的数据安全。',
-        link: 'https://minio.cloud.fairies.ltd/',
+        icon: "https://minioshare.service.fairy.host/images/icon/minio.jpeg",
+        title: "MinIO",
+        desc: "MinIO Cloud Storage - A secure and reliable file storage solution to safeguard your data.",
+        link: "https://minio.cloud.fairies.ltd/",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/nezha.svg',
-        title: 'Dashboard',
-        desc: 'NezhaDashboard - 监控和管理您的网络服务，确保性能和安全。',
-        link: 'https://control.cloud.fairies.ltd',
+        icon: "https://minioshare.service.fairy.host/images/icon/nezha.svg",
+        title: "Dashboard",
+        desc: "NezhaDashboard - Monitor and manage your network services, ensuring performance and security.",
+        link: "https://control.cloud.fairies.ltd",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/jupyter.svg',
-        title: 'Jupyter Book',
-        desc: 'JupyterBook - 探索数据科学和机器学习的强大工具，激发创新思维。',
-        link: 'https://jupyterbook.cloud.fairies.ltd',
+        icon: "https://minioshare.service.fairy.host/images/icon/jupyter.svg",
+        title: "Jupyter Book",
+        desc: "JupyterBook - A powerful tool for exploring data science and machine learning, inspiring innovative thinking.",
+        link: "https://jupyterbook.cloud.fairies.ltd",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/portainer.svg',
-        title: 'Portainer',
-        desc: 'Portainer - 简化Docker容器管理，提高开发和部署效率。',
-        link: 'https://portainer.cloud.fairies.ltd',
+        icon: "https://minioshare.service.fairy.host/images/icon/portainer.svg",
+        title: "Portainer",
+        desc: "Portainer - Simplifies Docker container management, enhancing development and deployment efficiency.",
+        link: "https://portainer.cloud.fairies.ltd",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/nginx.svg',
-        title: 'NginxProxyManager',
-        desc: 'NginxProxyManager - 轻松管理和优化您的Web服务器配置。',
-        link: 'https://proxy.cloud.fairies.ltd',
+        icon: "https://minioshare.service.fairy.host/images/icon/nginx.svg",
+        title: "NginxProxyManager",
+        desc: "NginxProxyManager - Easily manage and optimize your web server configurations.",
+        link: "https://proxy.cloud.fairies.ltd",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/nginx.svg',
-        title: 'NginxProxy(PVT)',
-        desc: 'NginxProxyManager - 私有Nginx代理，提供安全可靠的网络代理和加速服务。',
-        link: 'https://privateproxy.cloud.fairies.ltd',
+        icon: "https://minioshare.service.fairy.host/images/icon/nginx.svg",
+        title: "NginxProxy(PVT)",
+        desc: "NginxProxyManager - A private Nginx proxy that offers secure and reliable web proxy and acceleration services.",
+        link: "https://privateproxy.cloud.fairies.ltd",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/redhat.svg',
-        title: 'RedHat WebUI',
-        desc: 'RedHat WebUI - 全面的Web界面，让您能够轻松管理和自动化您的RHEL。',
-        link: 'https://redhat.cloud.fairies.ltd',
+        icon: "https://minioshare.service.fairy.host/images/icon/redhat.svg",
+        title: "RedHat WebUI",
+        desc: "RedHat WebUI - A comprehensive Web interface that allows you to easily manage and automate your RHEL.",
+        link: "https://redhat.cloud.fairies.ltd",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/image.svg',
-        title: 'Picsur',
-        desc: 'Picsur - 创新的在线图片分享和编辑平台，方便快捷地分享和编辑图片。',
-        link: 'https://pic.cloud.fairies.ltd',
+        icon: "https://minioshare.service.fairy.host/images/icon/image.svg",
+        title: "Picsur",
+        desc: "Picsur - An innovative online platform for sharing and editing photos, providing a convenient and quick way to share and edit images.",
+        link: "https://pic.cloud.fairies.ltd",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/ittools.svg',
-        title: 'IT Tools',
-        desc: 'IT Tools - 综合性的信息技术工具集合网站，提供各种IT资源和工具，提高效率。',
-        link: 'https://ittools.cloud.fairies.ltd',
+        icon: "https://minioshare.service.fairy.host/images/icon/ittools.svg",
+        title: "IT Tools",
+        desc: "IT Tools - A comprehensive website collection of information technology tools, offering a variety of IT resources and tools to enhance efficiency.",
+        link: "https://ittools.cloud.fairies.ltd",
       },
       {
-        icon: 'https://cdn.minioshare.cloud.fairies.ltd/images/icon/pingvin.png',
-        title: 'Pingvin Share',
-        desc: 'Pingvin Share - 文件共享服务，专注于数据安全和高效传输。',
-        link: 'https://pingvin.cloud.fairies.ltd',
+        icon: "https://cdn.minioshare.cloud.fairies.ltd/images/icon/pingvin.png",
+        title: "Pingvin Share",
+        desc: "Pingvin Share - A file sharing service focused on data security and efficient transmission.",
+        link: "https://pingvin.cloud.fairies.ltd",
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/bitwarden.svg',
-        title: 'Bitwarden',
-        desc: '密码管理工具，提供安全存储和跨设备同步您的密码、登录信息和其他敏感数据。',
-        link: 'https://bitwarden.cloud.fairies.ltd',
+        icon: "https://minioshare.service.fairy.host/images/icon/bitwarden.svg",
+        title: "Bitwarden",
+        desc: "Password management tool, providing secure storage and cross-device synchronization for your passwords, login information, and other sensitive data.",
+        link: "https://bitwarden.cloud.fairies.ltd",
       },
     ]
   },
   {
-    title: "🎉个人作品展示",
+    title: "🎉 Personal Portfolio",
     items: [
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/homepage.ico",
-        title: "个人主页",
-        desc: "探索Austin的个人主页，了解更多关于他的专业技能和项目经历。",
+        icon: "https://minioshare.service.fairy.host/images/icon/homepage.ico",
+        title: "Personal Homepage",
+        desc: "Explore Lionel Johnson's personal homepage to learn more about his professional skills and project experience.",
         link: "/"
       },
       {
         icon: "/logo.jpg",
-        title: "豆瓣电影数据可视化",
-        desc: "豆瓣电影数据可视化 - 探索电影世界的趋势和洞见，图形化展示丰富数据。",
+        title: "Douban Movie Data Visualization",
+        desc: "Douban Movie Data Visualization - Explore trends and insights of the movie world through graphical representation of rich data.",
         link: "/"
       }
     ]
@@ -208,21 +208,21 @@ export const NAV_DATA: NavData[] = [
     title: "Python Modules",
     items: [
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/python.svg",
-        title: "Austin Framework",
-        desc: "Austin Framework - 一个灵活的Python框架，助力快速开发和创新。",
+        icon: "https://minioshare.service.fairy.host/images/icon/python.svg",
+        title: "Lionel Johnson's Framework",
+        desc: "Lionel Johnson's Framework - A Flexible Python Framework for Rapid Development and Innovation.",
         link: "https://github.com/AustinFairyland/AustinFramework"
       },
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/python.svg",
-        title: "Austin Daily Module - PyPI",
-        desc: "每日更新的Python模块，提供实用的功能和工具。",
+        icon: "https://minioshare.service.fairy.host/images/icon/python.svg",
+        title: "Lionel Johnson Daily Module - PyPI",
+        desc: "Daily updated Python modules offering practical functions and tools.",
         link: "https://github.com/AustinFairyland/AustinModuleDaily"
       },
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/python.svg",
-        title: "Austin Fairyland Module - PyPI",
-        desc: "Austin Fairyland的Python模块集，充满创新和实用性。",
+        icon: "https://minioshare.service.fairy.host/images/icon/python.svg",
+        title: "Lionel Johnson Fairyland Module - PyPI",
+        desc: "Lionel Johnson's Python module collection is full of innovation and practicality.",
         link: "https://github.com/AustinFairyland/AustinFairylandRepository"
       },
     ]
@@ -231,15 +231,15 @@ export const NAV_DATA: NavData[] = [
     title: "PyPI",
     items: [
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/pypi.svg",
-        title: "Austin Daily Module",
-        desc: "每日更新的Python模块，提供实用的功能和工具。",
-        link: "https://pypi.org/project/austin-module-daily/"
+        icon: "https://minioshare.service.fairy.host/images/icon/pypi.svg",
+        title: "Lionel Johnson Daily Module",
+        desc: "Daily updated Python modules offering practical functions and tools.",
+        link: "https://pypi.org/project/Lionel Johnson-module-daily/"
       },
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/pypi.svg",
-        title: "Austin Fairyland Module",
-        desc: "Austin Fairyland的Python模块集，充满创新和实用性。",
+        icon: "https://minioshare.service.fairy.host/images/icon/pypi.svg",
+        title: "Lionel Johnson Fairyland Module",
+        desc: "Lionel Johnson's Python module collection is full of innovation and practicality.",
         link: "https://pypi.org/project/pyfairyland/"
       },
     ]
@@ -248,15 +248,15 @@ export const NAV_DATA: NavData[] = [
     title: "Docker Image",
     items: [
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/docker.svg",
+        icon: "https://minioshare.service.fairy.host/images/icon/docker.svg",
         title: "Auto commit git",
-        desc: "自动Git提交工具，确保代码的持续集成和版本控制。",
+        desc: "Automatic Git Commit Tool, ensuring continuous integration and version control of code.",
         link: "https://hub.docker.com/r/austinfairyland/auto-git-commit"
       },
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/docker.svg",
+        icon: "https://minioshare.service.fairy.host/images/icon/docker.svg",
         title: "Douban API",
-        desc: "豆瓣API - 接入丰富的电影和书籍信息，拓展您的应用功能。",
+        desc: "Douban API - Access a wealth of movie and book information to expand your application's features.",
         link: "https://hub.docker.com/r/austinfairyland/douban-api"
       },
     ]
@@ -265,51 +265,51 @@ export const NAV_DATA: NavData[] = [
     title: "Python Project",
     items: [
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/python.svg",
-        title: "自动提交Git",
-        desc: "自动化Git提交流程，优化您的代码管理和合作。",
+        icon: "https://minioshare.service.fairy.host/images/icon/python.svg",
+        title: "Automatic Git Submission",
+        desc: "Automate your Git commit process, optimizing your code management and collaboration.",
         link: "https://github.com/AustinFairyland/AustinPersAutoGitCommit"
       },
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/python.svg",
-        title: "豆瓣电影数据爬虫",
-        desc: "高效爬取豆瓣电影数据，为数据分析和应用开发提供强大支持。",
+        icon: "https://minioshare.service.fairy.host/images/icon/python.svg",
+        title: "Douban Movie Data Crawler",
+        desc: "Efficiently crawls Douban movie data, providing strong support for data analysis and application development.",
         link: "https://github.com/AustinFairyland/AustinPersDoubanFilmSpider"
       },
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/python.svg",
-        title: "豆瓣电影数据可视化API",
-        desc: "提供豆瓣电影数据的可视化接口，增强数据展示的直观性和互动性。",
+        icon: "https://minioshare.service.fairy.host/images/icon/python.svg",
+        title: "Douban Movie Data Visualization API",
+        desc: "Provide a visual interface for Douban movie data to enhance the intuitiveness and interactivity of data presentation.",
         link: "https://github.com/AustinFairyland/AustinPersDoubanFilmAPI"
       },
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/python.svg",
-        title: "天翼云 - 边缘云计算",
-        desc: "探索天翼云的边缘计算能力，为应用提供高效和可靠的云服务。",
+        icon: "https://minioshare.service.fairy.host/images/icon/python.svg",
+        title: "CTWing - Edge Cloud Computing",
+        desc: "Explore the edge computing capabilities of Tianyi Cloud to provide efficient and reliable cloud services for applications.",
         link: "https://github.com/AustinFairyland/AceProjectCTCloudEOPAuth"
       },
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/python.svg",
-        title: "天气识别API",
-        desc: "实时天气识别API，为您的应用提供准确的气象信息。",
+        icon: "https://minioshare.service.fairy.host/images/icon/python.svg",
+        title: "Weather Identification API",
+        desc: "Real-time Weather Identification API, providing accurate meteorological information for your application.",
         link: "https://github.com/AustinFairyland/work_weather_identify_runnet_backend"
       },
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/python.svg",
-        title: "空域安全区域绘制",
-        desc: "精确绘制空域安全区域，保障航空安全和航线规划。",
+        icon: "https://minioshare.service.fairy.host/images/icon/python.svg",
+        title: "Airspace Safety Zone Mapping",
+        desc: "Accurately delineate airspace safety zones to ensure aviation safety and flight route planning.",
         link: "https://github.com/AustinFairyland/work_safe_runnet_service"
       },
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/python.svg",
-        title: "订餐微信小程序API",
-        desc: "微信小程序API - 为订餐系统提供高效、稳定的后端支持。",
+        icon: "https://minioshare.service.fairy.host/images/icon/python.svg",
+        title: "Food Ordering WeChat Mini Program API",
+        desc: "WeChat Mini Program API - Provides efficient and stable backend support for the ordering system.",
         link: "https://github.com/AustinFairyland/work_order_food_jid_service"
       },
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/python.svg",
-        title: "订餐数据清洗分析与可视化",
-        desc: "清洗和分析订餐数据，提供直观的可视化报告和洞察。",
+        icon: "https://minioshare.service.fairy.host/images/icon/python.svg",
+        title: "Order Data Cleaning, Analysis, and Visualization",
+        desc: "Clean and analyze meal ordering data, provide intuitive visual reports and insights.",
         link: "https://github.com/AustinFairyland/work_order_food_data_clean_jid_service"
       }
     ]
@@ -318,9 +318,9 @@ export const NAV_DATA: NavData[] = [
     title: "GoLong Project",
     items: [
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/golang.svg",
+        icon: "https://minioshare.service.fairy.host/images/icon/golang.svg",
         title: "Goland",
-        desc: "Goland项目 - 探索Go语言的高效编程和应用开发。",
+        desc: "Goland Project - Exploring Efficient Programming and Application Development with Go Language.",
         link: "https://github.com/AustinFairyland/other_none_golang_go1"
       },
     ]
@@ -329,9 +329,9 @@ export const NAV_DATA: NavData[] = [
     title: "Java Project",
     items: [
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/java.svg",
-        title: "基于鸿蒙OS的记账本",
-        desc: "利用鸿蒙OS开发的记账本应用，管理财务更简单高效。",
+        icon: "https://minioshare.service.fairy.host/images/icon/java.svg",
+        title: "Based on HarmonyOS Accounting Book",
+        desc: "Using the HarmonyOS-developed accounting app, managing finances becomes simpler and more efficient.",
         link: "https://github.com/AustinFairyland/other_none_harmony_android"
       },
     ]
@@ -340,15 +340,15 @@ export const NAV_DATA: NavData[] = [
     title: "Vue&Vite Project",
     items: [
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/vite.svg",
-        title: "个人主页",
-        desc: "使用VitePress构建的个人主页，展示Austin的技术实力和创意。",
+        icon: "https://minioshare.service.fairy.host/images/icon/vite.svg",
+        title: "Personal Homepage",
+        desc: "A personal homepage built with VitePress, showcasing Lionel Johnson's technical expertise and creativity.",
         link: "https://github.com/AustinFairyland/AustinHomePage"
       },
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/vue.svg",
-        title: "豆瓣电影数据可视化",
-        desc: "基于Vue的豆瓣电影数据可视化项目，图形化展现电影世界的多样性。",
+        icon: "https://minioshare.service.fairy.host/images/icon/vue.svg",
+        title: "Douban Movie Data Visualization",
+        desc: "A Vue-based Douban Movie Data Visualization Project, graphically showcasing the diversity of the movie world.",
         link: "https://github.com/AustinFairyland/AustinPersDoubanFilmWeb"
       }
     ]
@@ -357,9 +357,9 @@ export const NAV_DATA: NavData[] = [
     title: "Mini Project",
     items: [
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/miniprogram.svg",
-        title: "微信小程序 - 订餐系统",
-        desc: "微信小程序 - 便捷的订餐系统，提供快速点餐和管理功能。",
+        icon: "https://minioshare.service.fairy.host/images/icon/miniprogram.svg",
+        title: "WeChat Mini Program - Ordering System",
+        desc: "WeChat Mini Program - A convenient ordering system that offers fast food ordering and management features.",
         link: "https://github.com/AustinFairyland/work_order_food_jid_mini_program"
       },
     ]

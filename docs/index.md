@@ -2,53 +2,53 @@
 layoutClass: 'home-layout'
 layout: home
 
-title: Austin 
-titleTemplate: 
+title: Home Page
+titleTemplate:
 hero:
-  name: Austin 
-#  name: Austin(段主任)
-  text: 个人主页 
-  tagline: 衣带渐宽终不悔，为伊消得人憔悴。 
+  name: Lionel Johnson
+  text: Personal Homepage
+  tagline: Never did I regret that I was getting thinner, and worn out, Because I pined for the one I cherished indeed.
   image:
-    src: https://minioshare.cloud.fairies.ltd/images/headers/logo.jpg 
+#    src: https://minioshare.cloud.fairies.ltd/images/Profile Photo/personal.jpg
+    src: https://minioshare.service.fairy.host/images/Profile Photo/personal.jpg
   actions:
-    - text: 个人主页 
-      link: https://home.cloud.fairies.ltd/ 
-    - text: 个人简历 
-      link: 
-    - text: 服务监控面板 
-      link: https://control.cloud.fairies.ltd/ 
-      theme: alt 
+    - text: Personal HomePage
+      link: https://home.cloud.fairies.ltd/
+    - text: Resume
+      link:
+    - text: Service monitoring panel
+      link: https://control.cloud.fairies.ltd/
+      theme: alt
 features:
   - icon: 💌
-    title: 个人博客
-    details: <small>发现专业技术文章、生活随笔，以及对未来科技的思考。分享知识、经验和创意的空间，一起探索代码背后的故事吧。</small>
-    link: https://blog.fairies.ltd/ 
+    title: Personal blog
+    details: <small>Discover technical articles, life essays, and thoughts on the future of technology. A space to share knowledge, experiences, and ideas and explore the stories behind the code together.</small>
+    link: https://blog.fairies.ltd/
     linkText: Blogs ...
   - icon: 💡
-    title: 个人作品
-    details: <small>每日一撸 <br/> 探索数字世界，展示个人技术实力和创意项目的专属空间。</small>
-    link: /product/ 
+    title: Personal works
+    details: <small>Code for daily.<br/>An exclusive space to explore the digital world and showcase your technical prowess and creative projects.</small>
+    link: /product/
     linkText: Product ...
   - icon: 📖
-    title: 接口文档
-    details: <small> 开放式API文档 </small> <br/> 研发建设中 ...
-    link: 
+    title: Interface documentation
+    details: <small>Open API Documentation.</small><br/>R & D construction ...
+    link:
     linkText: API Docs ...
   - icon: ⚙️
-    title: 工具导航
-    details: 从简单实用到专业高效 <br/> <small>让每一次点击都成为提升效率和创造力的旅程<small>
-    link: /tools/ 
+    title: Tool navigation
+    details: From simple and practical to professional and efficient.<br/><small>Make each click a journey of productivity and creativity.<small>
+    link: /tools/
     linkText: Tools ...
   - icon: 💼
-    title: 软件分享
-    details: <small> 软件工具控 <br/> 工欲善其事, 必先利其器</small> <br/> 研发建设中 ...
+    title: Software sharing
+    details: <small>Software and tools.<br/>To do a good job, we must first use its tools.</small><br/>R & D construction ...
     link: #
     linkText: Apps ...
   - icon: 👨‍💻
-    title: 关于作者
-    details: <small>不仅是代码的编织者，更是故事的讲述者。科技与创意的火花碰撞，点亮了无限的可能。</small> <p class="bottom-small">-- 一个想躺平的工程师</p>
-    link: /profile/ 
+    title: About
+    details: <small>Not only a code weaver, but also a story teller. The sparks of technology and creativity collide, lighting up infinite possibilities.</small> <p class="bottom-small">-- An engineer who wants to lie flat</p>
+    link: /profile/
     linkText: About ...
 ---
 
@@ -62,5 +62,9 @@ features:
   display: block;
   margin-top: 1em;
   text-align: right;
+}
+
+.home-layout .image-src {
+  border-radius: 160px;
 }
 </style>
