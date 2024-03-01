@@ -107,65 +107,71 @@ export const NAV_DATA: NavData[] = [
   {
     title: "🎉 Personal Service Site Navigation",
     items: [
-      {
-        icon: "https://minioshare.service.fairy.host/images/icon/siyuan.svg",
-        title: "Notebook",
-        desc: "SiyuanNotebook - A Custom Digital Notebook for Recording Your Precious Thoughts and Inspirations.",
-        link: "https://notebook.cloud.fairies.ltd",
-      },
+      // {
+      //   icon: "https://minioshare.service.fairy.host/images/icon/siyuan.svg",
+      //   title: "Notebook",
+      //   desc: "SiyuanNotebook - A Custom Digital Notebook for Recording Your Precious Thoughts and Inspirations.",
+      //   link: "https://notebook.cloud.fairies.ltd",
+      // },
       {
         icon: "https://minioshare.service.fairy.host/images/icon/openwrt.svg",
         title: "OpenWRT",
         desc: "OpenWRT - An extremely flexible open-source router operating system that offers limitless possibilities for your network connections.",
-        link: "https://openwrt.cloud.fairies.ltd",
+        link: "https://openwrt.service.fairy.host",
       },
       {
         icon: "https://minioshare.service.fairy.host/images/icon/minio.jpeg",
         title: "MinIO",
         desc: "MinIO Cloud Storage - A secure and reliable file storage solution to safeguard your data.",
-        link: "https://minio.cloud.fairies.ltd/",
+        link: "https://minio.service.fairy.host",
       },
       {
         icon: "https://minioshare.service.fairy.host/images/icon/nezha.svg",
         title: "Dashboard",
         desc: "NezhaDashboard - Monitor and manage your network services, ensuring performance and security.",
-        link: "https://control.cloud.fairies.ltd",
+        link: "https://nezha.service.fairy.host",
       },
-      {
-        icon: "https://minioshare.service.fairy.host/images/icon/jupyter.svg",
-        title: "Jupyter Book",
-        desc: "JupyterBook - A powerful tool for exploring data science and machine learning, inspiring innovative thinking.",
-        link: "https://jupyterbook.cloud.fairies.ltd",
-      },
+      // {
+      //   icon: "https://minioshare.service.fairy.host/images/icon/jupyter.svg",
+      //   title: "Jupyter Book",
+      //   desc: "JupyterBook - A powerful tool for exploring data science and machine learning, inspiring innovative thinking.",
+      //   link: "https://jupyterbook.cloud.fairies.ltd",
+      // },
       {
         icon: "https://minioshare.service.fairy.host/images/icon/portainer.svg",
         title: "Portainer",
         desc: "Portainer - Simplifies Docker container management, enhancing development and deployment efficiency.",
-        link: "https://portainer.cloud.fairies.ltd",
+        link: "https://portainer.service.fairy.host",
       },
       {
         icon: "https://minioshare.service.fairy.host/images/icon/nginx.svg",
-        title: "NginxProxyManager",
+        title: "Tencent Cloud Nginx",
+        desc: "NginxProxyManager - Easily manage and optimize your web server configurations.",
+        link: "https://proxy.admin.fairy.host",
+      },
+      {
+        icon: "https://minioshare.service.fairy.host/images/icon/nginx.svg",
+        title: "Aliyun Nginx",
         desc: "NginxProxyManager - Easily manage and optimize your web server configurations.",
         link: "https://proxy.cloud.fairies.ltd",
       },
-      {
-        icon: "https://minioshare.service.fairy.host/images/icon/nginx.svg",
-        title: "NginxProxy(PVT)",
-        desc: "NginxProxyManager - A private Nginx proxy that offers secure and reliable web proxy and acceleration services.",
-        link: "https://privateproxy.cloud.fairies.ltd",
-      },
-      {
-        icon: "https://minioshare.service.fairy.host/images/icon/redhat.svg",
-        title: "RedHat WebUI",
-        desc: "RedHat WebUI - A comprehensive Web interface that allows you to easily manage and automate your RHEL.",
-        link: "https://redhat.cloud.fairies.ltd",
-      },
+      // {
+      //   icon: "https://minioshare.service.fairy.host/images/icon/nginx.svg",
+      //   title: "NginxProxy(PVT)",
+      //   desc: "NginxProxyManager - A private Nginx proxy that offers secure and reliable web proxy and acceleration services.",
+      //   link: "https://privateproxy.cloud.fairies.ltd",
+      // },
+      // {
+      //   icon: "https://minioshare.service.fairy.host/images/icon/redhat.svg",
+      //   title: "RedHat WebUI",
+      //   desc: "RedHat WebUI - A comprehensive Web interface that allows you to easily manage and automate your RHEL.",
+      //   link: "https://redhat.cloud.fairies.ltd",
+      // },
       {
         icon: "https://minioshare.service.fairy.host/images/icon/image.svg",
         title: "Picsur",
         desc: "Picsur - An innovative online platform for sharing and editing photos, providing a convenient and quick way to share and edit images.",
-        link: "https://pic.cloud.fairies.ltd",
+        link: "https://picsur.service.fairy.host",
       },
       {
         icon: "https://minioshare.service.fairy.host/images/icon/ittools.svg",
@@ -174,11 +180,17 @@ export const NAV_DATA: NavData[] = [
         link: "https://ittools.cloud.fairies.ltd",
       },
       {
-        icon: "https://cdn.minioshare.cloud.fairies.ltd/images/icon/pingvin.png",
-        title: "Pingvin Share",
-        desc: "Pingvin Share - A file sharing service focused on data security and efficient transmission.",
-        link: "https://pingvin.cloud.fairies.ltd",
+        icon: "https://picsur.service.fairy.host/i/d6e01a35-490e-4bd0-abb5-9985fdee7bf4.webp",
+        title: "Sub Converter",
+        desc: "Proxy client sub url converter.",
+        link: "https://subconverter.product.fairy.host"
       },
+      // {
+      //   icon: "https://cdn.minioshare.cloud.fairies.ltd/images/icon/pingvin.png",
+      //   title: "Pingvin Share",
+      //   desc: "Pingvin Share - A file sharing service focused on data security and efficient transmission.",
+      //   link: "https://pingvin.cloud.fairies.ltd",
+      // },
       {
         icon: "https://minioshare.service.fairy.host/images/icon/bitwarden.svg",
         title: "Bitwarden",
@@ -197,11 +209,17 @@ export const NAV_DATA: NavData[] = [
         link: "/"
       },
       {
-        icon: "/logo.jpg",
+        icon: "https://douban.product.fairy.host/img/logo64.6a86f768.svg",
         title: "Douban Movie Data Visualization",
         desc: "Douban Movie Data Visualization - Explore trends and insights of the movie world through graphical representation of rich data.",
-        link: "/"
-      }
+        link: "https://douban.product.fairy.host"
+      },
+      {
+        icon: "https://picsur.service.fairy.host/i/d6e01a35-490e-4bd0-abb5-9985fdee7bf4.webp",
+        title: "Sub Converter",
+        desc: "Proxy client sub url converter.",
+        link: "https://subconverter.product.fairy.host"
+      },
     ]
   },
   {

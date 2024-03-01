@@ -134,7 +134,7 @@ Language Switching: [English✔️]() | [Chinese❌]()
 </a>
 </p>
 
-**Ask me questions or leave me a message 👉 [MessageBoard](https://github.com/AustinFairyland/AliceEngineerProPublic/issues/30)**
+~~**Ask me questions or leave me a message 👉 [MessageBoard](https://github.com/PrettiestFairy/AliceEngineerProPublic/issues/30)**~~
 
 - **Nickname: Lionel Johnson (From Chengdu.China)**
 - **Gender: Male (👨 This's very important! 😕)**
@@ -147,14 +147,14 @@ Language Switching: [English✔️]() | [Chinese❌]()
 
 [//]: # (![GitHubStats]&#40;https://github-readme-stats.vercel.app/api?username=AustinFairyland&count_private=true&show_icons=true&#41;)
 
-As of July, 2022; Submitted by [Lionel Johnson](https://github.com/AustinFairyland)
+As of July, 2022; Submitted by [Lionel Johnson](https://github.com/PrettiestFairy)
 
 ## 😎About my account
 
 **Don't forget to follow me and my organization**
 
-- [**AceProfessional**](https://github.com/AustinFairyland) (Administrator)
-- [**AliceEngineer**](https://github.com/AliceEngineer) (Daily)
+- [**Lionel Johnson**](https://github.com/PrettiestFairy) (Lionel Johnson's Main Account)
+- [**AliceEngineer**](https://github.com/AliceEngineer) (Lionel Johnson's Work Account)
 - ~~[**AliceWorkSpace**](https://github.com/AliceWorkSpace) (Work)~~
 
 **This Gitee, [GiteeHome](https://gitee.com/AliceEngineerPro) Hardly use it, but don't forget**
@@ -172,7 +172,9 @@ As of July, 2022; Submitted by [Lionel Johnson](https://github.com/AustinFairyla
 <br/>
 
 ::: tip
-探索数字世界的导航者：这个精心设计的导航界面由 [Lionel Johnson](https://github.com/AustinFairyland)开发，
-融合了美学和实用性。我们鼓励并感谢社区成员的创新和分享精神。如果您在自己的项目中使用了我们的设计或受到了启发，
-请遵守版权规定并保留原始版权声明，以表彰我们的努力和 [Lionel Johnson](https://github.com/AustinFairyland)的贡献。
+Navigators of the Digital World: This meticulously designed navigation interface was developed by [Lionel Johnson](https://github.com/PrettiestFairy).
+Blending aesthetics and practicality. We encourage and appreciate the innovation and spirit of sharing among community members.
+If you have used our designs in your projects or have been inspired by them,
+Please follow copyright regulations and retain the original copyright notice,
+in recognition of our efforts and the contributions of [Lionel Johnson](https://github.com/PrettiestFairy).
 :::

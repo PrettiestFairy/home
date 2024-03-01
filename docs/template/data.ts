@@ -7,13 +7,13 @@ type NavData = {
 
 export const NAV_DATA: NavData[] = [
   {
-    title: '作者站点导航',
+    title: "Template",
     items: [
       {
-        icon: '/logo.jpg',
-        title: 'Github',
-        desc: '',
-        link: 'https://github.com/AustinFairyland',
+        icon: "/logo.jpg",
+        title: "Template",
+        desc: "",
+        link: "",
       },
     ],
   }
