@@ -1,7 +1,6 @@
 ---
 layoutClass: 'home-layout'
 layout: home
-
 title: Home Page
 titleTemplate:
 hero:
@@ -9,21 +8,20 @@ hero:
   text: Personal Homepage
   tagline: Never did I regret that I was getting thinner, and worn out, Because I pined for the one I cherished indeed.
   image:
-#    src: https://minioshare.cloud.fairies.ltd/images/Profile Photo/personal.jpg
     src: https://minioshare.service.fairy.host/images/Profile Photo/personal.jpg
   actions:
     - text: Personal HomePage
-      link: https://home.cloud.fairies.ltd/
+      link: https://fairy.host
     - text: Resume
       link:
     - text: Service monitoring panel
-      link: https://control.cloud.fairies.ltd/
+      link: https://control.service.fairies.ltd
       theme: alt
 features:
   - icon: 💌
     title: Personal blog
     details: <small>Discover technical articles, life essays, and thoughts on the future of technology. A space to share knowledge, experiences, and ideas and explore the stories behind the code together.</small>
-    link: https://blog.fairies.ltd/
+    link: https://blog.fairy.host
     linkText: Blogs ...
   - icon: 💡
     title: Personal works
@@ -36,12 +34,12 @@ features:
     link:
     linkText: API Docs ...
   - icon: ⚙️
-    title: Tool navigation
+    title: Tools
     details: From simple and practical to professional and efficient.<br/><small>Make each click a journey of productivity and creativity.<small>
     link: /tools/
     linkText: Tools ...
   - icon: 💼
-    title: Software sharing
+    title: Software
     details: <small>Software and tools.<br/>To do a good job, we must first use its tools.</small><br/>R & D construction ...
     link: #
     linkText: Apps ...

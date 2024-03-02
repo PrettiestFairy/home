@@ -1,3 +1,4 @@
+// @ts-ignore
 import {NavLink} from "../.vitepress/theme/types";
 
 type NavData = {
