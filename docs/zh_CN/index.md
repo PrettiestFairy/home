@@ -9,20 +9,20 @@ hero:
   text: 个人主页
   tagline: 衣带渐宽终不悔，为伊消得人憔悴。 
   image:
-    src: https://minioshare.cloud.fairies.ltd/images/Profile Photo/personal.jpg
+    src: https://minioshare.service.fairy.host/images/Profile Photo/personal.jpg
   actions:
     - text: 个人主页 
-      link: https://home.cloud.fairies.ltd/ 
+      link: https://fairy.host
     - text: 个人简历 
       link: 
     - text: 服务监控面板 
-      link: https://control.cloud.fairies.ltd/ 
+      link: https://control.service.fairies.ltd
       theme: alt 
 features:
   - icon: 💌
     title: 个人博客
     details: <small>发现专业技术文章、生活随笔，以及对未来科技的思考。分享知识、经验和创意的空间，一起探索代码背后的故事吧。</small>
-    link: https://blog.fairies.ltd/ 
+    link: https://blog.fairy.host/
     linkText: Blogs ...
   - icon: 💡
     title: 个人作品

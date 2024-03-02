@@ -174,7 +174,7 @@ export const NAV_DATA: NavData[] = [
         icon: "https://picsur.service.fairy.host/i/d6e01a35-490e-4bd0-abb5-9985fdee7bf4.webp",
         title: "Sub Converter",
         desc: "Proxy client sub url converter.",
-        link: "https://subconverter.product.fairy.host"
+        link: "https://subconverter.product.fairies.ltd"
       },
       // {
       //   icon: "https://cdn.minioshare.cloud.fairies.ltd/images/icon/pingvin.png",

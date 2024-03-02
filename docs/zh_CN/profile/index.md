@@ -1,6 +1,6 @@
 ---
 layoutClass: profile-layout
-title: Austin
+title: 段主任
 titleTemplate: 关于作者
 ---
 

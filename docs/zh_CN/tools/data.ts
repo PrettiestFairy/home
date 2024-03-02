@@ -1,3 +1,4 @@
+// @ts-ignore
 import {NavLink} from "../.vitepress/theme/types";
 
 type NavData = {
@@ -10,85 +11,85 @@ export const NAV_DATA: NavData[] = [
     title: '🎉作者站点导航',
     items: [
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/github.svg",
+        icon: "https://minioshare.service.fairy.host/images/icon/github.svg",
         title: 'Github',
         desc: '探索开源世界，发现充满创意和协作精神的代码库。',
         link: 'https://github.com/AustinFairyland',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/gitlab.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/gitlab.svg',
         title: 'GitLab',
         desc: '一个多功能的代码托管平台，致力于高效的软件开发流程。',
         link: 'https://gitlab.com/Austin.D',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/gitee.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/gitee.svg',
         title: 'Gitee',
         desc: 'Gitee，中国领先的开源代码托管平台，专注于高速下载和本地化服务。',
         link: 'https://gitee.com/AustinFairyland',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/gitbook.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/gitbook.svg',
         title: 'GitBook',
         desc: '一个文档和知识共享的空间，充满了有用的技术指南和教程。',
         link: 'https://gitbook.fairy.host',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/docker.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/docker.svg',
         title: 'DockerHub',
         desc: '在DockerHub上发现容器化应用和镜像，轻松实现软件的快速部署和扩展。',
         link: 'https://hub.docker.com/u/austinfairyland',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/telegram.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/telegram.svg',
         title: 'Telegram',
         desc: '即时获取最新消息和动态，与社区成员实时互动，分享您的想法和反馈。',
         link: '/',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/twitter.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/twitter.svg',
         title: 'Twitter',
         desc: '紧跟最新动态，参与话题讨论，发现有关行业趋势的即时讯息和观点分享。',
         link: '/',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/youtube.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/youtube.svg',
         title: 'YouTube',
         desc: '观看内容丰富的视频，包括教程、产品评测和行业洞察，深入了解我们的世界。',
         link: '/',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/instagram.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/instagram.svg',
         title: 'Instagram',
         desc: '享受视觉盛宴，从独特的角度探索我们的故事和创新时刻。',
         link: '/',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/csdn.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/csdn.svg',
         title: 'CSDN',
         desc: 'CSDN的博客，分享最新的编程技术、IT资讯和个人见解。',
         link: 'https://alicehome.blog.csdn.net',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/cnblogs.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/cnblogs.svg',
         title: '博客园',
         desc: '博客园，深入探索编程心得和技术难题的解决方案。',
         link: 'https://www.cnblogs.com/alicehome',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/zhihu.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/zhihu.svg',
         title: '知乎',
         desc: '加入知乎的讨论，探讨热门技术话题和行业趋势。',
         link: 'https://www.zhihu.com/people/lao-gong-da-da',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/OfficialAccount.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/OfficialAccount.svg',
         title: '微信公众号',
         desc: '关注微信公众号，获取最新技术动态、教程和个人观点。',
-        link: 'https://minioshare.cloud.fairies.ltd/images/qrcode/qrcode_official_account_12x12.jpg',
+        link: 'https://minioshare.service.fairy.host/images/qrcode/qrcode_official_account_12x12.jpg',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/bilibili.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/bilibili.svg',
         title: '哔哩哔哩',
         desc: '观看最新的视频内容，包括独家教程、行业解读和创意分享。',
         link: '/',
@@ -99,67 +100,67 @@ export const NAV_DATA: NavData[] = [
     title: "🎉个人服务站点导航",
     items: [
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/siyuan.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/siyuan.svg',
         title: 'Notebook',
         desc: 'SiyuanNotebook - 私人定制的数字记事本，记录您珍贵的思绪和灵感。',
         link: 'https://notebook.cloud.fairies.ltd',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/openwrt.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/openwrt.svg',
         title: 'OpenWRT',
         desc: 'OpenWRT - 极致灵活的开源路由器操作系统，为您的网络连接提供无限可能。',
         link: 'https://openwrt.cloud.fairies.ltd',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/minio.jpeg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/minio.jpeg',
         title: 'MinIO',
         desc: 'MinIO云存储 - 安全可靠的文件存储解决方案，守护您的数据安全。',
         link: 'https://minio.cloud.fairies.ltd/',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/nezha.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/nezha.svg',
         title: 'Dashboard',
         desc: 'NezhaDashboard - 监控和管理您的网络服务，确保性能和安全。',
         link: 'https://control.cloud.fairies.ltd',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/jupyter.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/jupyter.svg',
         title: 'Jupyter Book',
         desc: 'JupyterBook - 探索数据科学和机器学习的强大工具，激发创新思维。',
         link: 'https://jupyterbook.cloud.fairies.ltd',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/portainer.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/portainer.svg',
         title: 'Portainer',
         desc: 'Portainer - 简化Docker容器管理，提高开发和部署效率。',
         link: 'https://portainer.cloud.fairies.ltd',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/nginx.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/nginx.svg',
         title: 'NginxProxyManager',
         desc: 'NginxProxyManager - 轻松管理和优化您的Web服务器配置。',
         link: 'https://proxy.cloud.fairies.ltd',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/nginx.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/nginx.svg',
         title: 'NginxProxy(PVT)',
         desc: 'NginxProxyManager - 私有Nginx代理，提供安全可靠的网络代理和加速服务。',
         link: 'https://privateproxy.cloud.fairies.ltd',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/redhat.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/redhat.svg',
         title: 'RedHat WebUI',
         desc: 'RedHat WebUI - 全面的Web界面，让您能够轻松管理和自动化您的RHEL。',
         link: 'https://redhat.cloud.fairies.ltd',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/image.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/image.svg',
         title: 'Picsur',
         desc: 'Picsur - 创新的在线图片分享和编辑平台，方便快捷地分享和编辑图片。',
         link: 'https://pic.cloud.fairies.ltd',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/ittools.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/ittools.svg',
         title: 'IT Tools',
         desc: 'IT Tools - 综合性的信息技术工具集合网站，提供各种IT资源和工具，提高效率。',
         link: 'https://ittools.cloud.fairies.ltd',
@@ -171,7 +172,7 @@ export const NAV_DATA: NavData[] = [
         link: 'https://pingvin.cloud.fairies.ltd',
       },
       {
-        icon: 'https://minioshare.cloud.fairies.ltd/images/icon/bitwarden.svg',
+        icon: 'https://minioshare.service.fairy.host/images/icon/bitwarden.svg',
         title: 'Bitwarden',
         desc: '密码管理工具，提供安全存储和跨设备同步您的密码、登录信息和其他敏感数据。',
         link: 'https://bitwarden.cloud.fairies.ltd',
@@ -182,7 +183,7 @@ export const NAV_DATA: NavData[] = [
     title: "🎉个人作品展示",
     items: [
       {
-        icon: "https://minioshare.cloud.fairies.ltd/images/icon/homepage.ico",
+        icon: "https://minioshare.service.fairy.host/images/icon/homepage.ico",
         title: "个人主页",
         desc: "探索Austin的个人主页，了解更多关于他的专业技能和项目经历。",
         link: "/"
