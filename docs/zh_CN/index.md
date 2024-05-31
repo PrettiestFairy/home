@@ -9,7 +9,7 @@ hero:
   text: 个人主页
   tagline: 衣带渐宽终不悔，为伊消得人憔悴。 
   image:
-    src: https://minioshare.service.fairy.host/images/Profile Photo/personal.jpg
+    src: https://txcos.service.fairy.host/logo/personal.jpg
   actions:
     - text: 个人主页 
       link: https://fairy.host

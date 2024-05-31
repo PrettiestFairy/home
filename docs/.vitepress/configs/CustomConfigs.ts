@@ -10,7 +10,7 @@ export const DefaultHead: HeadConfig[] = [
   ['meta', {name: 'msapplication-TileColor', content: '#000000'}],
 ]
 
-const DefaultLogo: string = "https://minioshare.service.fairy.host/images/logo/fairylnadfuture-logo-preview.png"
+const DefaultLogo: string = "https://txcos.service.fairy.host/logo/fairylnadfuture-logo-preview.png"
 
 const DefaultSocialLinks: DefaultTheme.SocialLink[] = [
   {
