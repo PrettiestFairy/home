@@ -10,7 +10,7 @@ import { NAV_DATA } from './data'
 </script>
 <style src="./index.scss"></style>
 
-# ⚙️ 工具导航
+# ⚙️ Tool Navigation
 
 <MNavLinks v-for="{title, items} in NAV_DATA" :title="title" :items="items"></MNavLinks>
 

@@ -1,25 +1,24 @@
 {
   "name": "home-page",
   "type": "module",
-  "version": "1.0.0",
-  "description": "个人主页",
+  "version": "1.0.1",
+  "description": "Home Page",
   "private": true,
   "scripts": {
-    "dev": "vitepress dev docs --port=8732",
+    "dev": "vitepress dev docs --port=61050",
     "build": "vitepress build docs",
-    "build:github": "cross-env APP_BASE_PATH=/AustinHomePage/ vitepress build docs",
     "format": "prettier --write ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AustinFairyland/AustinHomePage.git"
+    "url": "git+https://github.com/PrettiestFairy/home.git"
   },
-  "author": "Austin <fairylandhost@outlook.com>",
-  "license": "AGPT",
+  "author": "Austin <fairylandfuture@outlook.com>",
+  "license": "AGPL-3,0",
   "bugs": {
-    "url": "https://github.com/AustinFairyland"
+    "url": "https://github.com/PrettiestFairy/"
   },
-  "homepage": "https://github.com/AustinFairyland",
+  "homepage": "https://fairy.host",
   "devDependencies": {
     "@femm/prettier": "^1.1.0",
     "@femm/verify-commit": "^1.0.1",
