@@ -203,6 +203,12 @@ export const NAV_DATA: NavData[] = [
         desc: "",
         link: "https://chat.product.fairy.host/",
       },
+      {
+        icon: "https://txcos.service.fairy.host/icon/reference.svg",
+        title: "Quick Reference",
+        desc: "",
+        link: "https://reference.product.fairies.ltd",
+      }
     ]
   },
   {
@@ -210,13 +216,13 @@ export const NAV_DATA: NavData[] = [
     items: [
       {
         icon: "https://txcos.service.fairy.host/icon/homepage.ico",
-        title: "Personal Homepage",
+        title: "Personal HomePage",
         desc: "Explore Lionel Johnson's personal homepage to learn more about his professional skills and project experience.",
         link: "/"
       },
       {
         icon: "https://douban.product.fairies.ltd/img/logo64.6a86f768.svg",
-        title: "Douban Movie Data Visualization",
+        title: "Douban Movie Analyse",
         desc: "Douban Movie Data Visualization - Explore trends and insights of the movie world through graphical representation of rich data.",
         link: "https://douban.product.fairies.ltd"
       },
@@ -290,49 +296,49 @@ export const NAV_DATA: NavData[] = [
     items: [
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
-        title: "Automatic Git Submission",
+        title: "Auto Git Commit",
         desc: "Automate your Git commit process, optimizing your code management and collaboration.",
         link: "https://github.com/AustinFairyland/AustinPersAutoGitCommit"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
-        title: "Douban Movie Data Crawler",
+        title: "Douban Film Data Clear",
         desc: "Efficiently crawls Douban movie data, providing strong support for data analysis and application development.",
         link: "https://github.com/AustinFairyland/AustinPersDoubanFilmSpider"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
-        title: "Douban Movie Data Visualization API",
+        title: "Douban Film API",
         desc: "Provide a visual interface for Douban movie data to enhance the intuitiveness and interactivity of data presentation.",
         link: "https://github.com/AustinFairyland/AustinPersDoubanFilmAPI"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
-        title: "CTWing - Edge Cloud Computing",
+        title: "CTWing - Edge Cloud",
         desc: "Explore the edge computing capabilities of Tianyi Cloud to provide efficient and reliable cloud services for applications.",
         link: "https://github.com/AustinFairyland/AceProjectCTCloudEOPAuth"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
-        title: "Weather Identification API",
+        title: "Weather Identification",
         desc: "Real-time Weather Identification API, providing accurate meteorological information for your application.",
         link: "https://github.com/AustinFairyland/work_weather_identify_runnet_backend"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
-        title: "Airspace Safety Zone Mapping",
+        title: "Airspace Safety",
         desc: "Accurately delineate airspace safety zones to ensure aviation safety and flight route planning.",
         link: "https://github.com/AustinFairyland/work_safe_runnet_service"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
-        title: "Food Ordering WeChat Mini Program API",
+        title: "Food Ordering API",
         desc: "WeChat Mini Program API - Provides efficient and stable backend support for the ordering system.",
         link: "https://github.com/AustinFairyland/work_order_food_jid_service"
       },
       {
         icon: "https://txcos.service.fairy.host/icon/python.svg",
-        title: "Order Data Cleaning, Analysis, and Visualization",
+        title: "Order Data Analysis",
         desc: "Clean and analyze meal ordering data, provide intuitive visual reports and insights.",
         link: "https://github.com/AustinFairyland/work_order_food_data_clean_jid_service"
       }
@@ -354,7 +360,7 @@ export const NAV_DATA: NavData[] = [
     items: [
       {
         icon: "https://txcos.service.fairy.host/icon/java.svg",
-        title: "Based on HarmonyOS Accounting Book",
+        title: "Accounting Book",
         desc: "Using the HarmonyOS-developed accounting app, managing finances becomes simpler and more efficient.",
         link: "https://github.com/AustinFairyland/other_none_harmony_android"
       },
@@ -371,7 +377,7 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: "https://txcos.service.fairy.host/icon/vue.svg",
-        title: "Douban Movie Data Visualization",
+        title: "Douban Movie Analyse",
         desc: "A Vue-based Douban Movie Data Visualization Project, graphically showcasing the diversity of the movie world.",
         link: "https://github.com/AustinFairyland/AustinPersDoubanFilmWeb"
       }
@@ -382,7 +388,7 @@ export const NAV_DATA: NavData[] = [
     items: [
       {
         icon: "https://txcos.service.fairy.host/icon/miniprogram.svg",
-        title: "WeChat Mini Program - Ordering System",
+        title: "Ordering System",
         desc: "WeChat Mini Program - A convenient ordering system that offers fast food ordering and management features.",
         link: "https://github.com/AustinFairyland/work_order_food_jid_mini_program"
       },
