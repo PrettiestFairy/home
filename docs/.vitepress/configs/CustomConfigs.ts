@@ -37,6 +37,7 @@ const ChineseFooter: DefaultTheme.Config['footer'] = {
 
 const EnglishFooter: DefaultTheme.Config['footer'] = {
   message: 'Copyright © 2023 - Lionel Johnson All Rights Reserved.',
+  copyright: "<a href=\"https://beian.miit.gov.cn/\" target=\"_blank\">冀ICP备2022008414号</a>"
 }
 
 const DefaultSidebar: DefaultTheme.Config['sidebar'] = {}
